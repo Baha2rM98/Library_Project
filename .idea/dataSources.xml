@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="User Data Source - jdbc:mysql://localhost:3306/libraryproject" uuid="739d4ca1-b228-41b6-80ef-917d9b25c5c3">
+      <driver-ref>f42aca9b-c6ff-46e4-97de-340918923968</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/libraryproject</jdbc-url>
+    </data-source>
+  </component>
+</project>
